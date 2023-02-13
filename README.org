@@ -13,4 +13,4 @@ This is submodule of my studying notes which were released as a public project i
 + it was reiforced the use of the different background properties to play with images depending of the mediaquery
 + It was the first project using the BEM methodology to write CSS instead of the classical one using Submodules
 + It was reinforced the mobile First strategy to start writing CSS.
-+ It was learned how to create a nice colorful background with the lines being rotated to add a modern style effect.
++ It was reinforced the right used of the file structure to work using SASS methodology together with BEM
