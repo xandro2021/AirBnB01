@@ -10,6 +10,7 @@ This is submodule of my studying notes which were released as a public project i
 + It was reinforced the use of Flexbox and Grid Layouts to position every box element in the website
 + It was reinforced the used of grid layouts to work with images
 + It was also reinforced the manipulation of images through the different background properties
++ It was reinforced the used of gradients as background. It this case it was the button in the navbar form
 + it was reiforced the use of the different background properties to play with images depending of the mediaquery
 + It was the first project using the BEM methodology to write CSS instead of the classical one using Submodules
 + It was reinforced the mobile First strategy to start writing CSS.
