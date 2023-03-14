@@ -16,3 +16,4 @@ This is submodule of my studying notes which were released as a public project i
 + It was reinforced the mobile First strategy to start writing CSS.
 + It was reinforced the right used of the file structure to work using SASS methodology together with BEM
 + Smart use of mixins to easily create a grid-layout for different sizes
++ It was learnt how to create a pseudo-carrousel only with CSS
