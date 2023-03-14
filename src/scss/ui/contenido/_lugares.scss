@@ -8,6 +8,8 @@
         grid-template-columns: repeat( 4, 30rem );
         column-gap: 4rem;
         overflow-y: hidden;
+        overflow-x: scroll;
+        scroll-snap-type: x mandatory;
 
         @include m.tablet {
             @include m.grid( 2, 2rem );
@@ -17,4 +19,8 @@
             @include m.grid( 4, 2rem );
         }
     }
+}
+
+.lugar {
+    scroll-snap-align: center;
 }
