@@ -7,9 +7,7 @@
         display: grid;
         grid-template-columns: repeat( 4, 30rem );
         column-gap: 4rem;
-        overflow-y: hidden;
-        overflow-x: scroll;
-        // scroll-snap-type: x mandatory; //Not Supported by Firefox
+        @include m.scrollHorizontal;
 
         @include m.tablet {
             @include m.grid( 2, 2rem );
@@ -22,5 +20,4 @@
 }
 
 .lugar {
-    // scroll-snap-align: center;  //Not Supported by Firefox
 }
